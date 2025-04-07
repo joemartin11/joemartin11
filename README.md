@@ -1,50 +1,66 @@
+<!-- Profile README for @joemartin11 -->
 
-# Hey, I’m Joe 👋
-- 👀 I’m interested in ... Python and Java
-- 🌱 I’m currently learning ... Python!
-- 💞️ I’m looking to collaborate on ... Things!
-- 📫 How to reach me ... Here?
-- 😄 Pronouns: ... GUY
-- ⚡ Fun fact: ... Love Cars
+<h1 align="center">Hey, I’m Joe 👋</h1>
 
-🏗️ Builder of bots, dashboards, Slack hacks, and whatever connects systems in ways they weren’t meant to be connected.
+<p align="center">
+  🛠 Builder of bots, dashboards, and things that make work suck less.<br/>
+  🤖 Slack automator | Cloud-native dev | Workflow whisperer
+</p>
 
-- 🛠 Currently building a front-end admin UI for our Slack escalation notifier — powered by Supabase, Vercel, Render, and NextAuth
-- 🤖 Tinkering with automation across Cloudflare Warp, Slack, and GitHub Actions
-- 🚀 Just launched [KudosBot](https://github.com/joemartin11/kudosbot) — a serverless Slack + Giphy integration for fast, fun peer recognition
-- 🔒 Love clean security practices, good API design, and high-trust tooling
-- 🧠 Obsessed with reducing friction for support, revops, and eng workflows
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joemartin11&label=Profile+Views&color=blueviolet&style=flat" alt="joemartin11" />
+</p>
 
 ---
 
-### 🧰 Tech I Reach For Often
+### 🧠 What I'm Into
 
-- Frontend: `Next.js`, `Tailwind`, `shadcn/ui`, `TypeScript`
-- Backend: `Node`, `Supabase`, `Render`, `Cloudflare Workers`, `Slack Bolt`
-- Infra/DevOps: `Vercel`, `GitHub Actions`, `Cloudflare`, `Warp Tunnels`, `TLS`
-- Fav stack: full cloud-native with zero local dependencies
-
----
-
-### 🧪 Recent Projects
-
-- [`kudosbot`](https://github.com/joemartin11/kudosbot) — Next.js API route that injects random “kudos” GIFs into Slack from Workflow Builder
-- Escalation Notifier (private) — a Slack bot for intelligent team routing, product fuzzy matching, and context-rich support escalation
-- Internal front-end dashboard (private) — UI to manage bot config + live observability via Supabase, rendered on Vercel
+- 🧰 Engineering automation, Slack bots, and cloud infra that's fun to manage
+- 🧑‍💻 Building internal tools: Supabase + Vercel + Render = 💯
+- 🔥 Dev-experience, clean configs, and frictionless security
+- 🎯 Always working on: making support & revops faster + smarter
+- 🚗 Cars! 
 
 ---
 
-### 📬 Let’s Connect
+### 📦 Some Things I’ve Built
 
-- 🔗 https://www.linkedin.com/in/josephamartin/
-- 📬 DMs open on Slack if you know where to find me
+- [`kudosbot`](https://github.com/joemartin11/kudosbot): Slack + Giphy recognition bot with Workflow Builder integration
+- **Escalation Notifier UI** (private): Admin frontend for our Slack bot w/ full config via Supabase
+- **Cloudflare Warp + TLS Tunnels** (internal): Authenticated infra access for the whole org
 
 ---
 
-> “Everything should be as simple as possible — but no simpler.”  
-> —Albert Einstein
+### 💻 Tech I Use Often
 
-<!---
-joemartin11/joemartin11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,tailwind,vercel,cloudflare,supabase,githubactions,slack,typescript" alt="Tech stack icons" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joemartin11&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joemartin11&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemartin11&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joemartin11&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+
+```text
+# If set up, add this here:
+# https://github-readme-stats.vercel.app/api/wakatime?username=joemartin11
