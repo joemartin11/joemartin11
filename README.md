@@ -17,7 +17,7 @@
 
 - 🧰 Engineering automation, Slack bots, and cloud infra that's fun to manage
 - 🧑‍💻 Building internal tools: Supabase + Vercel + Render = 💯
-- 🔥 Dev-experience, clean configs, and frictionless security
+- 🔥 Dev experience, clean configs, and frictionless security
 - 🎯 Always working on: making support & revops faster + smarter
 
 ---
