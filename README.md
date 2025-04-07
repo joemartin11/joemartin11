@@ -59,13 +59,11 @@
 
 ---
 
-### ⏳ WakaTime Stats *(Optional)*
+### ⏳ WakaTime Stats
 
-> 🔧 Requires [WakaTime](https://wakatime.com/) + public profile + API key
+<!-- Replace with your WakaTime username -->
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=joemartin11&theme=tokyonight&hide_border=true)
 
-```text
-# If set up, add this here:
-# https://github-readme-stats.vercel.app/api/wakatime?username=joemartin11
 ```
 
 ---
