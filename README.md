@@ -91,12 +91,3 @@
 > “Everything should be as simple as possible — but no simpler.”  
 > —Albert Einstein
 ```
-
----
-
-### 🧪 Final Steps:
-- Create or edit your `joemartin11/joemartin11` repo
-- Paste this into the `README.md`
-- Save → GitHub auto-publishes it as your profile
-
-Want me to submit a PR to your GitHub for this? Or you got it?
