@@ -19,6 +19,20 @@
 - 🧑‍💻 Building internal tools: Supabase + Vercel + Render = 💯
 - 🔥 Dev experience, clean configs, and frictionless security
 - 🎯 Always working on: making support & revops faster + smarter
+  
+🔌 Tech Head, Gearhead
+🧑‍💻 Deeply into IT, systems, dev workflows, and making tools that help people move faster
+
+🖥️ Lifelong tech nerd — love computers, hardware, custom setups, clean configs
+
+🛠️ I like my scripts fast and my servers clean — the same goes for my cars
+
+🏎️ Cars I Own (and wrench on)
+
+Mercedes-Benz C63 AMG — Naturally aspirated 6.3L V8, absolute menace
+
+1971 Datsun Fairlady Z — L28 swapped, raw and rowdy classic JDM fun
+
 
 ---
 
