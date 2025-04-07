@@ -60,7 +60,3 @@
 
 ---
 
-
-```text
-# If set up, add this here:
-# https://github-readme-stats.vercel.app/api/wakatime?username=joemartin11
