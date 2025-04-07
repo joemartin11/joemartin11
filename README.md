@@ -4,7 +4,7 @@
 
 <p align="center">
   🛠 Builder of bots, dashboards, and things that make work suck less.<br/>
-  🤖 Slack automator | Cloud-native dev | Workflow whisperer
+  🤖 Slack Automator | Cloud-native dev | Workflow whisperer | IT Guy with a passion for more...
 </p>
 
 <p align="center">
