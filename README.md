@@ -1,3 +1,15 @@
+You got it — here's the deluxe, maxed-out version of your GitHub profile README with:
+
+- 🏆 GitHub trophies
+- ⌛ WakaTime activity (if you ever wire it in)
+- 👁️ Visitor badge
+- ✨ Everything still clean + on brand
+
+---
+
+### 📄 Final `README.md` for `joemartin11/joemartin11`
+
+```markdown
 <!-- Profile README for @joemartin11 -->
 
 <h1 align="center">Hey, I’m Joe 👋</h1>
@@ -19,7 +31,6 @@
 - 🧑‍💻 Building internal tools: Supabase + Vercel + Render = 💯
 - 🔥 Dev-experience, clean configs, and frictionless security
 - 🎯 Always working on: making support & revops faster + smarter
-- 🚗 Cars! 
 
 ---
 
@@ -60,3 +71,44 @@
 
 ---
 
+### ⏳ WakaTime Stats *(Optional)*
+
+> 🔧 Requires [WakaTime](https://wakatime.com/) + public profile + API key
+
+```text
+# If set up, add this here:
+# https://github-readme-stats.vercel.app/api/wakatime?username=joemartin11
+```
+
+---
+
+### ☁️ Currently Working With
+
+- Supabase (config store + live state)
+- Vercel (frontend UI deployments)
+- Render (backend bot hosting)
+- GitHub Actions (auto-versioning + changelogs)
+- Slack Workflow Builder (for everything from kudos to escalation triggers)
+
+---
+
+### 📬 Let’s Connect
+
+- 🧑‍💻 [GitHub](https://github.com/joemartin11)
+- 🗨️ Slack (if you know, you know)
+- ✍️ DM me if you're building cool internal tools — I’m always down to nerd out
+
+---
+
+> “Everything should be as simple as possible — but no simpler.”  
+> —Albert Einstein
+```
+
+---
+
+### 🧪 Final Steps:
+- Create or edit your `joemartin11/joemartin11` repo
+- Paste this into the `README.md`
+- Save → GitHub auto-publishes it as your profile
+
+Want me to submit a PR to your GitHub for this? Or you got it?
