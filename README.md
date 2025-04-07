@@ -1,15 +1,3 @@
-You got it — here's the deluxe, maxed-out version of your GitHub profile README with:
-
-- 🏆 GitHub trophies
-- ⌛ WakaTime activity (if you ever wire it in)
-- 👁️ Visitor badge
-- ✨ Everything still clean + on brand
-
----
-
-### 📄 Final `README.md` for `joemartin11/joemartin11`
-
-```markdown
 <!-- Profile README for @joemartin11 -->
 
 <h1 align="center">Hey, I’m Joe 👋</h1>
