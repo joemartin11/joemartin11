@@ -90,4 +90,3 @@
 
 > “Everything should be as simple as possible — but no simpler.”  
 > —Albert Einstein
-```
