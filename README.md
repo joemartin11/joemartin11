@@ -64,8 +64,6 @@
 <!-- Replace with your WakaTime username -->
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=joemartin11&theme=tokyonight&hide_border=true)
 
-```
-
 ---
 
 ### ☁️ Currently Working With
